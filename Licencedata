@@ -1,1 +1,10 @@
-hello 
+[
+  {
+    "licence": "RAiDER",
+    "expire": "2027/03/02"
+  },
+  {
+    "licence": "TEST1234",
+    "expire": "2020/08/03"
+  }
+]
