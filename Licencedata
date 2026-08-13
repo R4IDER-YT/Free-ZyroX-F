@@ -13,9 +13,9 @@
   },
   {
     "licence": "RAiDER1",
-    "expire": "2020/03/02",
-    "max_devices": "3",
-    "allowed_devices": ["8c3afa360522ddea", "7a1b90c34e567812"]
+    "expire": "2026/09/15",
+    "max_devices": "1",
+    "allowed_devices": ["9e78c672b9eed12d"]
   },
   {
     "licence": "Abol",
