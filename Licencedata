@@ -34,5 +34,11 @@
     "expire": "2026/09/15",
     "max_devices": "1",
     "allowed_devices": ["f72f9b5103a5268b"]
+  },
+  {
+    "licence": "A",
+    "expire": "2026/09/15",
+    "max_devices": "1",
+    "allowed_devices": ["411b108c9d69307f"]
   }
 ]
