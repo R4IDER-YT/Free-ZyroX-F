@@ -40,5 +40,11 @@
     "expire": "2026/09/15",
     "max_devices": "1",
     "allowed_devices": ["411b108c9d69307f"]
+  },
+  {
+    "licence": "MmD",
+    "expire": "9999/09/15",
+    "max_devices": "1",
+    "allowed_devices": ["0c1145da69844f6a"]
   }
 ]
