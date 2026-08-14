@@ -52,5 +52,11 @@
     "expire": "2026/09/16",
     "max_devices": "1",
     "allowed_devices": ["3f95755562fb4c7a"]
+  },
+  {
+    "licence": "RAiDEr",
+    "expire": "9999/09/16",
+    "max_devices": "1",
+    "allowed_devices": ["8c3afa360522ddea"]
   }
 ]
