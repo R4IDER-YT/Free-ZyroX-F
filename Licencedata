@@ -100,5 +100,11 @@
     "expire": "9999/09/16",
     "max_devices": "1",
     "allowed_devices": ["ab5f7ca24ec6d9e4"]
+  },
+  {
+    "licence": "L",
+    "expire": "2026/09/16",
+    "max_devices": "1",
+    "allowed_devices": ["6073bda36911c4c7"]
   }
 ]
