@@ -173,5 +173,13 @@
     "allowed_devices": [
       "722b9058df100322"
     ]
+  },
+  {
+    "licence": "Rapid",
+    "expire": "2026/08/22",
+    "max_devices": "1",
+    "allowed_devices": [
+      "46058ea49f5eb78a"
+    ]
   }
 ]
