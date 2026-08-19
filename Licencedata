@@ -181,5 +181,13 @@
     "allowed_devices": [
       "dbd3bbe2495d205f"
     ]
+  },
+  {
+    "licence": "shahi",
+    "expire": "2026/09/19",
+    "max_devices": "1",
+    "allowed_devices": [
+      "75bec1967f0669c1"
+    ]
   }
 ]
