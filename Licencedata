@@ -68,14 +68,6 @@
     ]
   },
   {
-    "licence": "RAiDEr",
-    "expire": "9999/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "8c3afa360522ddea"
-    ]
-  },
-  {
     "licence": "S",
     "expire": "9999/09/16",
     "max_devices": "1",
