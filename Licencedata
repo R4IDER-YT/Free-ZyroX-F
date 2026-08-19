@@ -9,19 +9,25 @@
     "licence": "RAiDER",
     "expire": "9999/03/02",
     "max_devices": "1",
-    "allowed_devices": ["b48b98a010b4b648"]
+    "allowed_devices": [
+      "b48b98a010b4b648"
+    ]
   },
   {
     "licence": "@amir_cyber1",
     "expire": "2026/09/15",
     "max_devices": "1",
-    "allowed_devices": ["9e78c672b9eed12d"]
+    "allowed_devices": [
+      "9e78c672b9eed12d"
+    ]
   },
   {
     "licence": "Abol",
     "expire": "9999/03/02",
     "max_devices": "1",
-    "allowed_devices": ["74dc4a06eb46b3ed"]
+    "allowed_devices": [
+      "74dc4a06eb46b3ed"
+    ]
   },
   {
     "licence": "TEST5678",
@@ -33,108 +39,152 @@
     "licence": "Sina",
     "expire": "2026/09/15",
     "max_devices": "1",
-    "allowed_devices": ["f72f9b5103a5268b"]
+    "allowed_devices": [
+      "f72f9b5103a5268b"
+    ]
   },
   {
     "licence": "A",
     "expire": "2026/09/15",
     "max_devices": "1",
-    "allowed_devices": ["411b108c9d69307f"]
+    "allowed_devices": [
+      "411b108c9d69307f"
+    ]
   },
   {
     "licence": "MmD",
     "expire": "9999/09/15",
     "max_devices": "1",
-    "allowed_devices": ["0c1145da69844f6a"]
+    "allowed_devices": [
+      "0c1145da69844f6a"
+    ]
   },
   {
     "licence": "BnBn",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["3f95755562fb4c7a"]
+    "allowed_devices": [
+      "3f95755562fb4c7a"
+    ]
   },
   {
     "licence": "RAiDEr",
     "expire": "9999/09/16",
     "max_devices": "1",
-    "allowed_devices": ["8c3afa360522ddea"]
+    "allowed_devices": [
+      "8c3afa360522ddea"
+    ]
   },
   {
     "licence": "S",
     "expire": "9999/09/16",
     "max_devices": "1",
-    "allowed_devices": ["8176ee5281b910d8"]
+    "allowed_devices": [
+      "8176ee5281b910d8"
+    ]
   },
   {
     "licence": "B",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["086e14c26638e895"]
+    "allowed_devices": [
+      "086e14c26638e895"
+    ]
   },
   {
     "licence": "O",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["2f2f0fff13c86c42"]
+    "allowed_devices": [
+      "2f2f0fff13c86c42"
+    ]
   },
   {
     "licence": "din",
     "expire": "2025/09/16",
     "max_devices": "1",
-    "allowed_devices": ["4d825ad41cf96516"]
+    "allowed_devices": [
+      "4d825ad41cf96516"
+    ]
   },
   {
     "licence": "N",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["12bf6988e333a149"]
+    "allowed_devices": [
+      "12bf6988e333a149"
+    ]
   },
   {
     "licence": "K",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["41786f2dae3a9dcc"]
+    "allowed_devices": [
+      "41786f2dae3a9dcc"
+    ]
   },
   {
     "licence": "off",
     "expire": "9999/09/16",
     "max_devices": "1",
-    "allowed_devices": ["ab5f7ca24ec6d9e4"]
+    "allowed_devices": [
+      "ab5f7ca24ec6d9e4"
+    ]
   },
   {
     "licence": "L",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["6073bda36911c4c7"]
+    "allowed_devices": [
+      "6073bda36911c4c7"
+    ]
   },
   {
     "licence": "C",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["89e2f55a57fbdb4f"]
+    "allowed_devices": [
+      "89e2f55a57fbdb4f"
+    ]
   },
   {
     "licence": "xit",
     "expire": "2026/09/16",
     "max_devices": "1",
-    "allowed_devices": ["6177fe591d22e3e4"]
+    "allowed_devices": [
+      "6177fe591d22e3e4"
+    ]
   },
   {
     "licence": "test0",
     "expire": "2026/08/18",
     "max_devices": "1",
-    "allowed_devices": ["6371eb0d154c137b"]
+    "allowed_devices": [
+      "6371eb0d154c137b"
+    ]
   },
   {
     "licence": "ZOZ",
     "expire": "2027/08/18",
     "max_devices": "1",
-    "allowed_devices": ["b5e4d0eedf4d835f"]
+    "allowed_devices": [
+      "b5e4d0eedf4d835f"
+    ]
   },
   {
     "licence": "test1",
     "expire": "2026/08/18",
     "max_devices": "1",
-    "allowed_devices": ["a4c041d0929c3138"]
+    "allowed_devices": [
+      "a4c041d0929c3138"
+    ]
+  },
+  {
+    "licence": "MR",
+    "expire": "2026/08/22",
+    "max_devices": "1",
+    "allowed_devices": [
+      "ce66ce0c16098bd6"
+    ]
   }
 ]
