@@ -30,12 +30,6 @@
     ]
   },
   {
-    "licence": "TEST5678",
-    "expire": "2020/03/02",
-    "max_devices": "all",
-    "allowed_devices": []
-  },
-  {
     "licence": "Sina",
     "expire": "2026/09/15",
     "max_devices": "1",
