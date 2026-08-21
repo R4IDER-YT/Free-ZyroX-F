@@ -197,5 +197,13 @@
     "expire": "2026/08/24",
     "max_devices": "all",
     "allowed_devices": []
+  },
+  {
+    "licence": "Wil",
+    "expire": "2026/08/24",
+    "max_devices": "1",
+    "allowed_devices": [
+      "f62bac008f070a35"
+    ]
   }
 ]
