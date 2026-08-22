@@ -153,12 +153,6 @@
     ]
   },
   {
-    "licence": "ZyroX",
-    "expire": "2026/08/24",
-    "max_devices": "all",
-    "allowed_devices": []
-  },
-  {
     "licence": "Wil",
     "expire": "2026/08/24",
     "max_devices": "1",
