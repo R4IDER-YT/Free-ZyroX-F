@@ -145,14 +145,6 @@
     ]
   },
   {
-    "licence": "ivory",
-    "expire": "2026/08/23",
-    "max_devices": "1",
-    "allowed_devices": [
-      "4ea7337021b143e8"
-    ]
-  },
-  {
     "licence": "Wil",
     "expire": "2026/08/24",
     "max_devices": "1",
