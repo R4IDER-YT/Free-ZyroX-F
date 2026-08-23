@@ -151,5 +151,11 @@
     "allowed_devices": [
       "f62bac008f070a35"
     ]
+  },
+  {
+    "licence": "ZyroX",
+    "expire": "2026/08/25",
+    "max_devices": "all",
+    "allowed_devices": []
   }
 ]
