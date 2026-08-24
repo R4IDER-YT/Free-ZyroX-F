@@ -143,13 +143,5 @@
     "allowed_devices": [
       "75bec1967f0669c1"
     ]
-  },
-  {
-    "licence": "Wil",
-    "expire": "2026/08/24",
-    "max_devices": "1",
-    "allowed_devices": [
-      "f62bac008f070a35"
-    ]
   }
 ]
