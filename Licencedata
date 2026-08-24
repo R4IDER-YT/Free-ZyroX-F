@@ -128,15 +128,6 @@
     ]
   },
   {
-    "licence": "RAiDER",
-    "expire": "2027/08/19",
-    "max_devices": "2",
-    "allowed_devices": [
-      "b48b98a010b4b648",
-      "8c3afa360522ddea"
-    ]
-  },
-  {
     "licence": "shahi",
     "expire": "2026/09/19",
     "max_devices": "1",
