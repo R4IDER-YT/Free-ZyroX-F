@@ -134,5 +134,14 @@
     "allowed_devices": [
       "75bec1967f0669c1"
     ]
+  },
+  {
+    "licence": "RAiDER",
+    "expire": "2027/08/29",
+    "max_devices": "2",
+    "allowed_devices": [
+      "8c3afa360522ddea",
+      "b48b98a010b4b648"
+    ]
   }
 ]
