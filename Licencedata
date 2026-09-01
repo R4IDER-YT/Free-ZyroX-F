@@ -149,5 +149,11 @@
     "expire": "2026/09/04",
     "max_devices": "all",
     "allowed_devices": []
+  },
+  {
+    "licence": "FreeFire",
+    "expire": "2026/09/04",
+    "max_devices": "all",
+    "allowed_devices": []
   }
 ]
