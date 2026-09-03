@@ -143,11 +143,5 @@
       "8c3afa360522ddea",
       "b48b98a010b4b648"
     ]
-  },
-  {
-    "licence": "1Days",
-    "expire": "2026/09/03",
-    "max_devices": "all",
-    "allowed_devices": []
   }
 ]
