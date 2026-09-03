@@ -143,5 +143,11 @@
       "8c3afa360522ddea",
       "b48b98a010b4b648"
     ]
+  },
+  {
+    "licence": "TOP",
+    "expire": "2029/05/29",
+    "max_devices": "all",
+    "allowed_devices": []
   }
 ]
