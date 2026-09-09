@@ -155,11 +155,5 @@
     "expire": "2026/11/08",
     "max_devices": "d569d9b86e4e6db9",
     "allowed_devices": []
-  },
-  {
-    "licence": "air",
-    "expire": "2026/11/08",
-    "max_devices": "d569d9b86e4e6db9",
-    "allowed_devices": []
   }
 ]
