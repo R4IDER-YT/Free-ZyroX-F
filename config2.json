@@ -1,0 +1,14 @@
+{
+  "switch1": {
+    "text": "Body Head",
+    "enabled": false
+  },
+  "switch2": {
+    "text": "No Recoil",
+    "enabled": false
+  },
+  "switch3": {
+    "text": "ßypass",
+    "enabled": false
+  }
+}
