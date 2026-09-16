@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "localconfig.json",
-      "download_url": "",
+      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Free-ZyroX-F/refs/heads/main/localconfig.json",
       "copy_destination": "/sdcard/Android/data/com.dts.freefireth/files/",
       "hash": "a29aadfc4801bd503ae59713a4a2698d"
     }
