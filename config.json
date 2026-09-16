@@ -1,0 +1,27 @@
+{
+  "files": [
+    {
+      "name": "localconfig.json",
+      "download_url": "",
+      "copy_destination": "/sdcard/Android/data/com.dts.freefireth/files/",
+      "hash": "a29aadfc4801bd503ae59713a4a2698d"
+    }
+  ],
+
+  "delete_group_1": [
+    "localconfig.json"
+    
+  ],
+  "delete_group_2": [
+    
+    "localconfig.json"
+  ],
+
+  "inject_switch1": [
+    "localconfig.json"
+    
+  ],
+  "inject_switch2": [
+    "localconfig.json"
+  ]
+}
