@@ -24,4 +24,7 @@
   "inject_switch2": [
     "localconfig.json"
   ]
+  
+"targetpackage": "com.dts.freefireth"
+  
 }
