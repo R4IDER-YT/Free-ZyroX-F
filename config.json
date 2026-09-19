@@ -14,11 +14,17 @@
   "delete_group_2": [
     "localconfig.json"
   ],
+  "delete_group_3": [
+    "localconfig.json"
+  ],
 
   "inject_switch1": [
     "localconfig.json"
   ],
   "inject_switch2": [
+    "localconfig.json"
+  ],
+  "inject_switch3": [
     "localconfig.json"
   ],
 
