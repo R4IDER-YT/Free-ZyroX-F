@@ -22,5 +22,7 @@
     "localconfig.json"
   ],
 
-  "targetpackage": "com.dts.freefireth"
+  "targetpackage": "com.dts.freefiremax",
+
+  "server_status": false
 }
