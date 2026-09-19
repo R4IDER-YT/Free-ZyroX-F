@@ -3,13 +3,20 @@
     {
       "name": "localconfig.json",
       "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Free-ZyroX-F/refs/heads/main/localconfig.json",
-      "copy_destination": "/sdcard/Android/data/com.dts.freefireth/files/",
-      "hash": "a29aadfc4801bd503ae59713a4a2698d"
+      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
+      "hash": "937986cf4358f90a2a561e7252c30dd8"
+    },
+    {
+      "name": "Assembly-CSharp-patch.bytes",
+      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Free-ZyroX-F/refs/heads/main/Assembly-CSharp-patch.bytes",
+      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
+      "hash": "9ec35d0ad1ab264309ab95044753e0d1"
     }
   ],
 
   "delete_group_1": [
-    "localconfig.json"
+    "localconfig.json",
+    "Assembly-CSharp-patch.bytes"
   ],
   "delete_group_2": [
     "localconfig.json"
@@ -19,7 +26,8 @@
   ],
 
   "inject_switch1": [
-    "localconfig.json"
+    "localconfig.json",
+    "Assembly-CSharp-patch.bytes"
   ],
   "inject_switch2": [
     "localconfig.json"
