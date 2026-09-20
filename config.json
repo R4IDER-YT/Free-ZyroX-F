@@ -3,20 +3,13 @@
     {
       "name": "localconfig.json",
       "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Free-ZyroX-F/refs/heads/main/localconfig.json",
-      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
-      "hash": "937986cf4358f90a2a561e7252c30dd8"
-    },
-    {
-      "name": "Assembly-CSharp-patch.bytes",
-      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Free-ZyroX-F/refs/heads/main/Assembly-CSharp-patch.bytes",
-      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
-      "hash": "9ec35d0ad1ab264309ab95044753e0d1"
+      "copy_destination": "/sdcard/Android/data/com.dts.freefireth/files/",
+      "hash": "d4ac14f488832b57477a621e530f2952"
     }
   ],
 
   "delete_group_1": [
-    "localconfig.json",
-    "Assembly-CSharp-patch.bytes"
+    "localconfig.json"
   ],
   "delete_group_2": [
     "localconfig.json"
@@ -26,8 +19,7 @@
   ],
 
   "inject_switch1": [
-    "localconfig.json",
-    "Assembly-CSharp-patch.bytes"
+    "localconfig.json"
   ],
   "inject_switch2": [
     "localconfig.json"
@@ -36,7 +28,7 @@
     "localconfig.json"
   ],
 
-  "targetpackage": "com.dts.freefiremax",
+  "targetpackage": "com.dts.freefireth",
   "timedelete": 25000,
   "server_status": true
 }
