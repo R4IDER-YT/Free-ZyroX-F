@@ -41,12 +41,6 @@
     ]
   },
   {
-    "licence": "Activity",
-    "expire": "2029/06/03",
-    "max_devices": "all",
-    "allowed_devices": []
-  },
-  {
     "licence": "MRkos",
     "expire": "2026/11/08",
     "max_devices": "1",
