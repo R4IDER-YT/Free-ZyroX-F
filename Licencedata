@@ -15,11 +15,5 @@
     "allowed_devices": [
       "d569d9b86e4e6db9"
     ]
-  },
-  {
-    "licence": "1Days",
-    "expire": "2026/09/21",
-    "max_devices": "all",
-    "allowed_devices": []
   }
 ]
