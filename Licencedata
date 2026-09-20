@@ -24,14 +24,6 @@
     ]
   },
   {
-    "licence": "ZOZ",
-    "expire": "2027/08/18",
-    "max_devices": "1",
-    "allowed_devices": [
-      "b5e4d0eedf4d835f"
-    ]
-  },
-  {
     "licence": "RAiDER",
     "expire": "2027/08/29",
     "max_devices": "2",
