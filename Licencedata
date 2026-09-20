@@ -157,11 +157,5 @@
     "allowed_devices": [
       "d569d9b86e4e6db9"
     ]
-  },
-  {
-    "licence": "Amir",
-    "expire": "2026/10/19",
-    "max_devices": "1",
-    "allowed_devices": []
   }
 ]
