@@ -1,13 +1,5 @@
 [
   {
-    "licence": "MmD",
-    "expire": "9999/09/15",
-    "max_devices": "1",
-    "allowed_devices": [
-      "0c1145da69844f6a"
-    ]
-  },
-  {
     "licence": "S",
     "expire": "9999/09/16",
     "max_devices": "1",
