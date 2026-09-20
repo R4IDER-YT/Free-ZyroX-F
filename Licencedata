@@ -1,34 +1,10 @@
 [
   {
-    "licence": "@amir_cyber1",
-    "expire": "2026/09/15",
-    "max_devices": "1",
-    "allowed_devices": [
-      "9e78c672b9eed12d"
-    ]
-  },
-  {
     "licence": "Abol",
     "expire": "9999/03/02",
     "max_devices": "1",
     "allowed_devices": [
       "74dc4a06eb46b3ed"
-    ]
-  },
-  {
-    "licence": "Sina",
-    "expire": "2026/09/15",
-    "max_devices": "1",
-    "allowed_devices": [
-      "f72f9b5103a5268b"
-    ]
-  },
-  {
-    "licence": "A",
-    "expire": "2026/09/15",
-    "max_devices": "1",
-    "allowed_devices": [
-      "411b108c9d69307f"
     ]
   },
   {
@@ -40,51 +16,11 @@
     ]
   },
   {
-    "licence": "BnBn",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "3f95755562fb4c7a"
-    ]
-  },
-  {
     "licence": "S",
     "expire": "9999/09/16",
     "max_devices": "1",
     "allowed_devices": [
       "8176ee5281b910d8"
-    ]
-  },
-  {
-    "licence": "B",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "086e14c26638e895"
-    ]
-  },
-  {
-    "licence": "O",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "2f2f0fff13c86c42"
-    ]
-  },
-  {
-    "licence": "N",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "12bf6988e333a149"
-    ]
-  },
-  {
-    "licence": "K",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "41786f2dae3a9dcc"
     ]
   },
   {
@@ -96,43 +32,11 @@
     ]
   },
   {
-    "licence": "L",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "6073bda36911c4c7"
-    ]
-  },
-  {
-    "licence": "C",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "89e2f55a57fbdb4f"
-    ]
-  },
-  {
-    "licence": "xit",
-    "expire": "2026/09/16",
-    "max_devices": "1",
-    "allowed_devices": [
-      "6177fe591d22e3e4"
-    ]
-  },
-  {
     "licence": "ZOZ",
     "expire": "2027/08/18",
     "max_devices": "1",
     "allowed_devices": [
       "b5e4d0eedf4d835f"
-    ]
-  },
-  {
-    "licence": "shahi",
-    "expire": "2026/09/19",
-    "max_devices": "1",
-    "allowed_devices": [
-      "75bec1967f0669c1"
     ]
   },
   {
