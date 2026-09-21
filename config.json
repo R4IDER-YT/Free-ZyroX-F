@@ -30,5 +30,5 @@
 
   "targetpackage": "com.dts.freefireth",
   "timedelete": 25000,
-  "server_status": false
+  "server_status": true
 }
