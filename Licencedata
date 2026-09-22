@@ -21,5 +21,13 @@
     "expire": "2026/09/22",
     "max_devices": "all",
     "allowed_devices": []
+  },
+  {
+    "licence": "Rio",
+    "expire": "2027/09/22",
+    "max_devices": "1",
+    "allowed_devices": [
+      "ec3a7263c45f135d"
+    ]
   }
 ]
