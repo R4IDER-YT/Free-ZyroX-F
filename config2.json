@@ -1,14 +1,14 @@
 {
   "switch1": {
     "text": "Aim Bot",
-    "enabled": false
+    "enabled": true
   },
   "switch2": {
     "text": "Aim Lock",
-    "enabled": false
+    "enabled": true
   },
   "switch3": {
     "text": "ßypass",
-    "enabled": false
+    "enabled": true
   }
 }
