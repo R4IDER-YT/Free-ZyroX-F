@@ -1,10 +1,10 @@
 {
   "switch1": {
-    "text": "Body Head",
+    "text": "Aim Bot",
     "enabled": false
   },
   "switch2": {
-    "text": "Lobby ßypass",
+    "text": "Aim Lock",
     "enabled": false
   },
   "switch3": {
