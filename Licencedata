@@ -29,5 +29,11 @@
     "allowed_devices": [
       "ec3a7263c45f135d"
     ]
+  },
+  {
+    "licence": "RioisGay",
+    "expire": "2026/09/26",
+    "max_devices": "all",
+    "allowed_devices": []
   }
 ]
