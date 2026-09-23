@@ -1,14 +1,14 @@
 {
   "switch1": {
-    "text": "Aim Bot",
-    "enabled": true
+    "text": "Inject Menu",
+    "enabled": false
   },
   "switch2": {
-    "text": "Aim Lock",
-    "enabled": true
+    "text": "Lobby Bypass",
+    "enabled": false
   },
   "switch3": {
     "text": "ßypass",
-    "enabled": true
+    "enabled": false
   }
 }
