@@ -7,16 +7,23 @@
       "hash": "937986cf4358f90a2a561e7252c30dd8"
     },
     {
+      "name": "_.kmteam-ffmax-state",
+      "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Free-ZyroX-F/refs/heads/main/_.kmteam-ffmax-state",
+      "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
+      "hash": "935eb6cf374c282ea7fdad4fe89bb5ee"
+    },
+    {
       "name": "Assembly-CSharp-patch.bytes",
       "download_url": "https://raw.githubusercontent.com/R4IDER-YT/Free-ZyroX-F/refs/heads/main/Assembly-CSharp-patch.bytes",
       "copy_destination": "/sdcard/Android/data/com.dts.freefiremax/files/",
-      "hash": "dbf21b6129c6eab570f46fd4166c29df"
+      "hash": "7f0052bf400611b50d5d5e9610494de9"
     }
   ],
 
   "delete_group_1": [
     "localconfig.json",
-    "Assembly-CSharp-patch.bytes"
+    "Assembly-CSharp-patch.bytes",
+    "_.kmteam-ffmax-state"
   ],
   "delete_group_2": [
     "localconfig.json"
@@ -27,7 +34,8 @@
 
   "inject_switch1": [
     "localconfig.json",
-    "Assembly-CSharp-patch.bytes"
+    "Assembly-CSharp-patch.bytes",
+    "_.kmteam-ffmax-state"
   ],
   "inject_switch2": [
     "localconfig.json"
@@ -37,6 +45,6 @@
   ],
 
   "targetpackage": "com.dts.freefiremax",
-  "timedelete": 30000000,
+  "timedelete": 1200000,
   "server_status": true
 }
