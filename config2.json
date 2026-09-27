@@ -1,10 +1,10 @@
 {
   "switch1": {
-    "text": "Inject Menu",
+    "text": "Aim Bot",
     "enabled": false
   },
   "switch2": {
-    "text": "Lobby Bypass",
+    "text": "Esp Box",
     "enabled": false
   },
   "switch3": {
