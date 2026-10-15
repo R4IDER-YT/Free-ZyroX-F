@@ -1,7 +1,7 @@
 [
   {
     "licence": "RAiDER",
-    "expire": "2027/10/07",
+    "expire": "2026/10/20",
     "max_devices": "2",
     "allowed_devices": [
       "8c3afa360522ddea",
