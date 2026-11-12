@@ -7,5 +7,11 @@
       "8c3afa360522ddea",
       "b48b98a010b4b648"
     ]
+  },
+  {
+    "licence": "ActivityCore",
+    "expire": "2026/11/15",
+    "max_devices": "all",
+    "allowed_devices": []
   }
 ]
