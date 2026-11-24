@@ -41,6 +41,6 @@
   ],
 
   "targetpackage": "com.dts.freefiremax",
-  "timedelete": 180000,
+  "timedelete": 60000,
   "server_status": true
 }
